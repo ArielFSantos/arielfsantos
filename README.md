@@ -5,10 +5,10 @@
 - 🌱 Faculdade de Desenvolvimento Full Stack Estacio em andamento.
 - 💬 Procuro evolução profissional na area de tecnologia.
 ##
-<div>
+<div style="margin:auto">
   <a href="https://github.com/ArielFSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielfsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielfsantos&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielfsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielfsantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block">
