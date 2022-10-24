@@ -1,6 +1,6 @@
 ### Ola, Eu sou Ariel Freitas!" 👋
 
-- 🔭 Atualmente faço estagio em automação industrial.
+- 🔭 Assistente de Projetos em automação industrial.
 - 🌱 Estudante autonomo de desenvolvimento web.
 - 🌱 Faculdade de Desenvolvimento Full Stack Estacio em andamento.
 - 💬 Procuro evolução profissional na area de tecnologia.
