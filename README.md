@@ -1,7 +1,7 @@
 ### Ola, Eu sou Ariel Freitas!" 👋
 
 - 🔭 Programador em automação industrial.
-- 🌱 Estudante autonomo de desenvolvimento web.
+- 🌱 Estudante de desenvolvimento Web.
 - 🌱 Faculdade de Desenvolvimento Full Stack Estacio em andamento.
 - 💬 Procuro evolução profissional na area de tecnologia.
 ##
