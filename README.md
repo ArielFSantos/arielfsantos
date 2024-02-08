@@ -26,7 +26,7 @@ Conecte-se comigo:
 
 Dê uma olhada na minha contribuição no GitHub:
 
-Snake animation
+![Snake animation](https://github.com/arielfsantos/arielfsantos/blob/output/github-contribution-grid-snake.svg)
 
 Obrigado por visitar meu perfil! 😊
 
