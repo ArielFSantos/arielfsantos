@@ -4,6 +4,7 @@ Olá, eu sou Ariel Freitas - Desenvolvedor Web e Automatização Industrial 👨
 🌱 Estudante de Desenvolvimento Web na Faculdade Estácio, buscando conhecimentos em Desenvolvimento Full Stack.
 🎓 Cursando Desenvolvimento Full Stack na Estácio.
 💬 Estou em constante busca por evolução profissional na área de tecnologia.
+
 <div style="margin:auto">
   <a href="https://github.com/ArielFSantos">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielfsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
