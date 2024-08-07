@@ -1,12 +1,14 @@
 Olá, me chamo Ariel Freitas, tenho 27 anos e sou um programador full stack com foco em front-end. Atualmente, estou especializado no desenvolvimento com React, Vite e Tailwind, mas estou sempre aberto a aprender novas ferramentas e linguagens.
 
 🎓 Formação e Especialização:
-Criação de Landing Pages e sites dinamicos.
-Estudo Desenvolvimento Full Stack na Estácio de Sá, abrangendo Front-end, Back-end, Análise de Dados, Mobile e Nuvem.
-Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.
+- Criação de Landing Pages e sites dinamicos.
+- Estudo Desenvolvimento Full Stack na Estácio de Sá, abrangendo Front-end, Back-end, Análise de Dados, Mobile e Nuvem.
+- Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.
+  
 🛠️ Habilidades e Ferramentas:
 Soft Skills: Comunicativo, bom trabalho em equipe, adaptação a novos processos e aprendizado rápido.
 Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python.
+
 <div align="center">
   <a href="https://github.com/ArielFSantos">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielfsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -17,7 +19,7 @@ Linguagens e Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Ari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ari-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
-   <img align="center" alt="Ari-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+   <img align="center" alt="Ari-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
