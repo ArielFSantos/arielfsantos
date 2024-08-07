@@ -15,7 +15,7 @@ Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python, Java.
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielfsantos&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
-Linguagens e Ferramentas:
+                                                          <h1 align="center">Linguagens e Ferramentas</h1>
 <div align="center">
   <div style="display: inline_block; text-align: justify;">
     <img align="center" alt="Ari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,17 +27,14 @@ Linguagens e Ferramentas:
     <img align="center" alt="Ari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 </div>
-Conecte-se comigo:
+                                                            Conecte-se comigo
 <div align="center">
   <a href="https://www.instagram.com/ariel_freeitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/ArielFSantos#5000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:arielrari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ariel-freitas-dos-santos-4a0265163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-Minhas Contribuições no GitHub:
-<div align="center">
-  ![Snake animation](https://github.com/arielfsantos/arielfsantos/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 Estou sempre buscando aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias no desenvolvimento web.
 
 Obrigado por visitar meu perfil! 😊
