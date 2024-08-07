@@ -31,9 +31,6 @@ Conecte-se comigo:  <a href="https://www.instagram.com/ariel_freeitas/" target="
 <a href="mailto:arielrari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ariel-freitas-dos-santos-4a0265163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Minhas Contribuições no GitHub:
-
-
 Estou sempre buscando aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias no desenvolvimento web.
 
 Obrigado por visitar meu perfil! 😊
