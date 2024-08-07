@@ -8,8 +8,10 @@
 <li>Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.</li>
 </ul>
 <h2>🛠️ Habilidades e Ferramentas:</h2>
-- Soft Skills: Comunicativo, bom trabalho em equipe, adaptação a novos processos e aprendizado rápido.
-- Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python, Java.
+<ul>
+ <li>Soft Skills: Comunicativo, bom trabalho em equipe, adaptação a novos processos e aprendizado rápido.</li>
+ <li>Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python, Java.</li>
+</ul> 
 <div align="center">
   <a href="https://github.com/ArielFSantos">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielfsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
