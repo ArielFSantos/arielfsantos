@@ -4,8 +4,10 @@
 
 <h2>🎓 Formação e Especialização:</h2>
 <ul>
+  <li>Criação de Landing Page e sites</li>
+  <li>Certificados de Cursos na plataforma DIO e Rocketseat</li>
   <li>Estudo Desenvolvimento Full Stack na Estácio de Sá, abrangendo Front-end, Back-end, Análise de Dados, Mobile e Nuvem.</li>
-<li>Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.</li>
+  <li>Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.</li>
 </ul>
 <h2>🛠️ Habilidades e Ferramentas:</h2>
 <ul>
