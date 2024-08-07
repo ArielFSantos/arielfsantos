@@ -3,8 +3,10 @@
 <p>Olá, me chamo Ariel Freitas, tenho 27 anos e sou um programador full stack com foco em front-end. Atualmente, estou especializado no desenvolvimento com React, Vite e Tailwind, mas estou sempre aberto a aprender novas ferramentas e linguagens.<p>
 
 <h2>🎓 Formação e Especialização:</h2>
-- Estudo Desenvolvimento Full Stack na Estácio de Sá, abrangendo Front-end, Back-end, Análise de Dados, Mobile e Nuvem.
-- Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.
+<ul>
+  <li>Estudo Desenvolvimento Full Stack na Estácio de Sá, abrangendo Front-end, Back-end, Análise de Dados, Mobile e Nuvem.</li>
+<li>Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.</li>
+</ul>
 <h2>🛠️ Habilidades e Ferramentas:</h2>
 - Soft Skills: Comunicativo, bom trabalho em equipe, adaptação a novos processos e aprendizado rápido.
 - Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python, Java.
