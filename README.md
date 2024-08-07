@@ -1,5 +1,3 @@
-Olá, eu sou Ariel Freitas! 👋
-Programador Full Stack com Foco em Front-end
 <h1>Sobre Mim</h1>
 
 <p>Olá, me chamo Ariel Freitas, tenho 27 anos e sou um programador full stack com foco em front-end. Atualmente, estou especializado no desenvolvimento com React, Vite e Tailwind, mas estou sempre aberto a aprender novas ferramentas e linguagens.<p>
