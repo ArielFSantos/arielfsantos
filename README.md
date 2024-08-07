@@ -15,8 +15,8 @@ Olá, me chamo Ariel Freitas, tenho 27 anos e sou um programador full stack com 
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielfsantos&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
-Linguagens e Ferramentas:    
-<div style="display: inline_block">
+
+ Linguagens e Ferramentas: <div style="display: inline_block">
   <img align="center" alt="Ari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ari-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
    <img align="center" alt="Ari-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
