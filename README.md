@@ -14,12 +14,6 @@
  <li>Soft Skills: Comunicativo, bom trabalho em equipe, adaptação a novos processos e aprendizado rápido.</li>
  <li>Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python, Java.</li>
 </ul> 
-<div align="center">
-  <a href="https://github.com/ArielFSantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arielfsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielfsantos&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
-</div>
                                                           <h1 align="center">Linguagens e Ferramentas</h1>
 <div align="center">
   <div style="display: inline_block; text-align: justify;">
