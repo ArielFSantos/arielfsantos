@@ -1,42 +1,101 @@
-<h1>Sobre Mim</h1>
+<h1 align="center">👋 About Me</h1>
 
-<p>Olá, me chamo Ariel Freitas, tenho 27 anos e sou um programador full stack com foco em front-end. Atualmente, estou especializado no desenvolvimento com React, Vite e Tailwind, mas estou sempre aberto a aprender novas ferramentas e linguagens.<p>
+<p align="center">
+  Hi, my name is <strong>Ariel Freitas</strong>. I am a <strong>29-year-old Mid-Level Full-Stack Developer</strong> currently working at a startup in the <strong>agribusiness (grain market)</strong> sector.
+</p>
 
-<h2>🎓 Formação e Especialização:</h2>
+<p align="center">
+  I work mainly with <strong>JavaScript</strong> and <strong>TypeScript</strong>, developing scalable <strong>web and mobile solutions</strong> focused on business operations, performance, and reliability.
+</p>
+
+<hr/>
+
+<h2>💼 Professional Experience</h2>
+
 <ul>
-  <li>Criação de Landing Page e sites</li>
-  <li>Certificados de Cursos na plataforma DIO e Rocketseat</li>
-  <li>Estudo Desenvolvimento Full Stack na Estácio de Sá, abrangendo Front-end, Back-end, Análise de Dados, Mobile e Nuvem.</li>
-  <li>Possuo experiência em programação de automação industrial, desenvolvendo códigos de operações de máquinas industriais e sistemas de supervisão e controle de máquinas. No entanto, acabei encontrando uma paixão pelo desenvolvimento web.</li>
+  <li>
+    Development and maintenance of an <strong>internal desktop system</strong> using
+    <strong>Angular, Express, and MongoDB</strong>, including:
+    <ul>
+      <li>CRM and ERP modules</li>
+      <li>Contract and logistics management</li>
+    </ul>
+  </li>
+  <li>
+    Mobile application development using <strong>React Native</strong> and <strong>NestJS</strong> with
+    <strong>PostgreSQL</strong>, focused on grain contract tracking and closing.
+  </li>
+  <li>
+    Systems built with <strong>microservices architecture</strong>, using:
+    <ul>
+      <li><strong>Docker</strong> for containerization</li>
+      <li><strong>Kubernetes</strong> for orchestration</li>
+    </ul>
+  </li>
 </ul>
-<h2>🛠️ Habilidades e Ferramentas:</h2>
+
+<hr/>
+
+<h2>🛠️ Skills & Technologies</h2>
+
+<h3>Hard Skills</h3>
 <ul>
- <li>Soft Skills: Comunicativo, bom trabalho em equipe, adaptação a novos processos e aprendizado rápido.</li>
- <li>Hard Skills: React, Vite, Tailwind CSS, JavaScript, HTML, CSS, Python, Java.</li>
-</ul> 
-                                                          <h1 align="center">Linguagens e Ferramentas</h1>
+  <li>JavaScript (ES6+)</li>
+  <li>TypeScript</li>
+  <li>Angular</li>
+  <li>React Native</li>
+  <li>Node.js / Express</li>
+  <li>NestJS</li>
+  <li>MongoDB</li>
+  <li>PostgreSQL</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+  <li>HTML5 & CSS3</li>
+</ul>
+
+<h3>Soft Skills</h3>
+<ul>
+  <li>Strong communication</li>
+  <li>Team collaboration</li>
+  <li>Fast learner</li>
+  <li>Adaptability to new processes and technologies</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">🚀 Languages & Tools</h2>
+
 <div align="center">
-  <div style="display: inline_block; text-align: justify;">
-    <img align="center" alt="Ari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Ari-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
-    <img align="center" alt="Ari-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30" />
 </div>
-                                                            <h1 align="center">Conecte-se comigo</h1>
+
+<hr/>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
 <div align="center">
-  <a href="https://www.instagram.com/ariel_freeitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/ArielFSantos#5000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:arielrari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ariel-f-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ariel-f-santos-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arielrari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-Estou sempre buscando aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias no desenvolvimento web.
+<hr/>
 
-Obrigado por visitar meu perfil! 😊
+<p align="center">
+  I am always looking to improve my skills, learn new technologies, and build scalable, high-quality software solutions.
+</p>
 
-
-
+<p align="center">
+  <strong>Thanks for visiting my profile! 🚀</strong>
+</p>
