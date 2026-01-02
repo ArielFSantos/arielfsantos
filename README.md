@@ -1,10 +1,10 @@
-<h1 align="center">👋 About Me</h1>
+<h1 align="left">👋 About Me</h1>
 
-<p align="center">
+<p align="left">
   Hi, my name is <strong>Ariel Freitas</strong>. I am a <strong>29-year-old Mid-Level Full-Stack Developer</strong> currently working at a startup in the <strong>agribusiness (grain market)</strong> sector.
 </p>
 
-<p align="center">
+<p align="left">
   I work mainly with <strong>JavaScript</strong> and <strong>TypeScript</strong>, developing scalable <strong>web and mobile solutions</strong> focused on business operations, performance, and reliability.
 </p>
 
@@ -92,9 +92,6 @@
 
 <hr/>
 
-<p align="center">
-  I am always looking to improve my skills, learn new technologies, and build scalable, high-quality software solutions.
-</p>
 
 <p align="center">
   <strong>Thanks for visiting my profile! 🚀</strong>
